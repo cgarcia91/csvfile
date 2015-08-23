@@ -16,7 +16,7 @@ class gameinfo{
 		int item = 0;
 		int start = 0;
 		int num = 0;
-		int q=0;
+		int q=0; //stores number of quotations encountered
 
 	
 		
